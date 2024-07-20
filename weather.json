@@ -1,0 +1,40 @@
+{
+    "weather": [
+      {
+        "name": "Nagpur",
+        "days": [
+          {
+            "datetime": "2024-07-19",
+            "datetimeEpoch": 1721327400,
+            "tempmax": 89.5,
+            "tempmin": 76.9,
+            "temp": 83.3
+          }
+        ]
+      },
+      {
+        "name": "Delhi",
+        "days": [
+          {
+            "datetime": "2024-07-19",
+            "datetimeEpoch": 1721327400,
+            "tempmax": 95.0,
+            "tempmin": 80.0,
+            "temp": 87.5
+          }
+        ]
+      },
+      {
+        "name": "Mumbai",
+        "days": [
+          {
+            "datetime": "2024-07-19",
+            "datetimeEpoch": 1721327400,
+            "tempmax": 85.0,
+            "tempmin": 77.0,
+            "temp": 81.0
+          }
+        ]
+      }
+    ]
+  }
